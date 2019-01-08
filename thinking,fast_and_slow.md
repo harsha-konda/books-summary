@@ -14,7 +14,9 @@
 
 ### illusions
 - System1 is autonomous, and can never be disengaged. 
+
 ![Muller Lyer Illusion](https://upload.wikimedia.org/wikipedia/commons/f/fe/M%C3%BCller-Lyer_illusion.svg)
+
 - *Visual Illusion* : Both the lines are of the same length however *System1* perceives them to be of different lengths.
 - *Cognitive Illusion* : “our excessive confidence in what we believe we know, and our apparent inability to acknowledge the full extent of our ignorance and the uncertainty of the world we live in”
 
