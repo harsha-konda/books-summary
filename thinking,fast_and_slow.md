@@ -2,7 +2,7 @@
 1. **Basic Elements of System 1 and System 2**
 2. **Judgement Heuristics and how to think statistically**
 3. **Limitations of our mind** 
-4. **Nature of decision making **
+4. **Nature of decision making**
 5. **Distinctions between the experiencing self and the remembering self**
 6. **Distinctions between the selves explored in the book**
 
@@ -14,7 +14,7 @@
 
 ### illusions
 - System1 is autonomous, and can never be disengaged. 
-![Muller Lyer Illusion](https://en.wikipedia.org/wiki/File:M%C3%BCller-Lyer_illusion.svg)
+![Muller Lyer Illusion](https://upload.wikimedia.org/wikipedia/commons/f/fe/M%C3%BCller-Lyer_illusion.svg)
 - *Visual Illusion* : Both the lines are of the same length however *System1* perceives them to be of different lengths.
 - *Cognitive Illusion* : “our excessive confidence in what we believe we know, and our apparent inability to acknowledge the full extent of our ignorance and the uncertainty of the world we live in”
 
