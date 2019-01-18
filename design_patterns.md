@@ -36,4 +36,13 @@ Allows us to build flexible OO systems that minimize interdependency and allow f
 
 ![weather-o-rama](assets/dp-3.png)
 
-# 3. 
+# 3. Decorator Pattern
+It involves a set of decorator classes that are used to wrap concrete components.
+
+### Design Principles
+#### i. Classes should be open for extension, but closed for modification.
+
+![weather-o-rama](assets/dp-4.png)
+
+# 4. Factory Pattern
+The Factory Method Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
